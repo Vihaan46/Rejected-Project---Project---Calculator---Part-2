@@ -1,0 +1,17 @@
+* {
+    font-family: Arial;
+} #app-title {
+    text-transform: uppercase;
+} #amount-label, #balance-label {
+    text-decoration: underline;
+} #app {
+    box-shadow: 15px 15px 15px;
+} button {
+    box-shadow: 2px 2px 5px;
+} #credit-btn {
+    color: red;
+} #debit-btn {
+    color: orange;
+} #note {
+    text-decoration: line-through;
+}
